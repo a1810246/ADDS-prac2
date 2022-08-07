@@ -1,7 +1,7 @@
 #include<iostream>
 #include "Human.h"
 #include "Computer.h"
-#include "Refree.h"
+#include "Referee.h"
 
 using namespace std;
 
@@ -9,7 +9,7 @@ int main()
 {
 	Human h1;
 	Computer c1;
-	Refree r1;
+	Referee r1;
 	
 	string move1;
 	string move2;
