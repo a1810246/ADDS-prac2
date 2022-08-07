@@ -17,7 +17,6 @@ int main()
 	
 	cout << "Enter move: ";
 	cin >> move1;
-	cout<<endl;
 	
 	h1.setMove(move1);
 	move1 = h1.makeMove();
